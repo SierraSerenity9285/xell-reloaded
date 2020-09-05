@@ -13,8 +13,8 @@ static char* asciiart = "\n"
 	"             ######  #  #### #######               \n"
 	"             #   #   #     # #     #               \n"
 	"             #    #  #     # #     #               \n"
-	"             #     #  #####  #     #               \n"
+	"             #     #  #####  #     #               .\n"
 	
-	"             SerenityRGH Australia's #1 Mod Shop " VERSION "\n";
+	"      SerenityRGH, Australia's #1 Mod Shop         \n";
 static char* asciitail =
-	"                 Special Corona Compatible XeLL version\n\n";
+	"              SerenityRGH.tk\n\n";
